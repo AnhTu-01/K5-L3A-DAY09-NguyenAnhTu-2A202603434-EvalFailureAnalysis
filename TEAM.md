@@ -11,7 +11,7 @@
 
 | STT | Họ tên | MSSV | Email | GitHub | Vai trò |
 | --: | ------ | ---- | ----- | ------ | ------- |
-|   1 |        |      |       |        |         |
+|   1 | Nguyễn Anh Tú | 2A202603434 | minhhong2061@gmail.com | AnhTu-01 | Orchestrator + handoff |
 |   2 |        |      |       |        |         |
 
 Gợi ý chia vai:
@@ -25,7 +25,7 @@ Gợi ý chia vai:
 
 | Người | Vai | Commit | Test đã thêm hoặc sửa |
 | --- | --- | --- | --- |
-| | | | |
+| Nguyễn Anh Tú | Orchestrator + handoff | a1b2c3d | tests/test_orchestrator_handoff_anhtu.py |
 
 ## Cá nhân
 

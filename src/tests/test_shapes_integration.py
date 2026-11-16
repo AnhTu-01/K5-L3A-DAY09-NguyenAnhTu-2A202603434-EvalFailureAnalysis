@@ -1,7 +1,4 @@
-"""Exercise crash/resume through the shared runner for all student shapes."""
-
 import time
-
 import pytest
 
 from lab8.app import run_shape
@@ -12,7 +9,6 @@ from lab8.schemas import RunResult, make_run_id
 from tests.conftest import BY_ID
 
 pytestmark = pytest.mark.student
-
 
 @pytest.mark.parametrize("shape", ["workflow", "single", "orchestrator"])
 @pytest.mark.parametrize(

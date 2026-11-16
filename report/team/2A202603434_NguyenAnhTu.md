@@ -17,7 +17,7 @@ Shape C (orchestrator) và phần handoff: `src/lab8/shapes/orchestrator.py`. Nh
 - Orchestrator lấy quote từ order row (bỏ qua số ngày trong ticket) và là bên duy nhất gọi `durability.issue_refund` với quote đầy đủ để host tự trừ số đã hoàn.
 - Truyền `crash_at` xuống host, không bắt `InjectedCrash`; mọi lỗi khác trả về `failed` nên `run_claim` không raise.
 - Trace chỉ ghi handoff đã sanitize và các field đơn hàng thuộc allowlist, không ghi ticket hay parent context.
-- Commit chính: `a1b2c3d`.
+- Commit chính: `8fb4a71`.
 - Test đã thêm: `src/tests/test_orchestrator_handoff_anhtu.py` (4 test: tool của investigator chỉ đọc, handoff từ chối tool ghi, handoff loại bỏ secret và field lạ, trace có sự kiện handoff và không lộ `CANARY_SECRET_`).
 
 ## 4. Bằng chứng

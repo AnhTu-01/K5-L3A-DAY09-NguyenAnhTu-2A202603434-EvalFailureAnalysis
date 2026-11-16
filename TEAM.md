@@ -25,7 +25,7 @@ Gợi ý chia vai:
 
 | Người | Vai | Commit | Test đã thêm hoặc sửa |
 | --- | --- | --- | --- |
-| Nguyễn Anh Tú | Orchestrator + handoff | a1b2c3d | tests/test_orchestrator_handoff_anhtu.py |
+| Nguyễn Anh Tú | Orchestrator + handoff | 8fb4a71 | tests/test_orchestrator_handoff_anhtu.py |
 
 ## Cá nhân
 

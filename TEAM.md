@@ -12,7 +12,9 @@
 | STT | Họ tên | MSSV | Email | GitHub | Vai trò |
 | --: | ------ | ---- | ----- | ------ | ------- |
 |   1 | Nguyễn Anh Tú | 2A202603434 | minhhong2061@gmail.com | AnhTu-01 | Orchestrator + handoff |
-|   2 |        |      |       |        |         |
+|   2 | Trần Nguyên Đình | MSSV02 | trannguyendinh.yhd@gmail.com | MrOwl715 | single agent |
+|   3 | Nguyễn Huy Thu | MSSV03 | nguyenhuythu111@gmail.com | Teddyy1101 | workflow |
+|   4 | Nguyễn Đức Trung | 2A202603423 | trungducnguyen2k@gmail.com | NguyenDucTrung999 | ledger |
 
 Gợi ý chia vai:
 
@@ -26,6 +28,9 @@ Gợi ý chia vai:
 | Người | Vai | Commit | Test đã thêm hoặc sửa |
 | --- | --- | --- | --- |
 | Nguyễn Anh Tú | Orchestrator + handoff | 8fb4a71 | tests/test_orchestrator_handoff_anhtu.py |
+| MrOwl715 | single agent | a5351c9 | tests/test_single.py |
+| Teddyy1101 | workflow | 1c5e253 | tests/test_workflow.py |
+| Nguyen Duc Trung - 2A202603423 | ledger | 3516f10 | tests/test_ledger_trung.py |
 
 ## Cá nhân
 

@@ -5,7 +5,7 @@
 - Tên nhóm: potato
 - Lớp: L3A
 - Repo nhóm: `K5-L3A-DAY08-TenNhom-FromWorkflowsToAgents` (xem [SUBMISSION.md](SUBMISSION.md))
-- URL repo, nhánh nộp, commit chốt:
+- URL repo, nhánh nộp, commit chốt: https://github.com/NguyenDucTrung999/K5-Day8-From-Workflows-to-Agents, nhánh trung2, commit 37ed8c2
 
 ## Thành viên
 
@@ -30,7 +30,7 @@ Gợi ý chia vai:
 | Nguyễn Anh Tú - 2A202603434 | orchestrator + handoff | 8fb4a71 | tests/test_orchestrator_handoff_anhtu.py |
 | Đinh Trần Nguyên - 2A202603517 | single agent | a5351c9 | tests/test_single.py |
 | Nguyễn Huy Thứ - 2A202603356 | workflow + integration | 1c5e253 | tests/test_workflow.py |
-| Nguyen Duc Trung - 2A202603423 | ledger + evaluation | 52c67ea | tests/test_ledger_trung.py |
+| Nguyen Duc Trung - 2A202603423 | ledger + evaluation | 37ed8c2 | tests/test_ledger_trung.py |
 
 ## Cá nhân
 

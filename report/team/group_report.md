@@ -8,7 +8,7 @@ Tối đa 5 trang ngoài phụ lục. Số liệu lấy từ file trong `src/rep
 - Lớp: L3A
 - Repo nhóm: `K5-L3A-DAY08-TenNhom-FromWorkflowsToAgents` (xem [SUBMISSION.md](../../SUBMISSION.md))
 - Thành viên: xem `TEAM.md`
-- Commit chốt (trùng `report/team/decision_adr.md`): 52c67ea
+- Commit chốt (trùng `report/team/decision_adr.md`): 37ed8c2
 
 ## 2. Mục tiêu và cách tiếp cận
 

@@ -30,7 +30,7 @@ Gợi ý chia vai:
 | Nguyễn Anh Tú | Orchestrator + handoff | 8fb4a71 | tests/test_orchestrator_handoff_anhtu.py |
 | MrOwl715 | single agent | a5351c9 | tests/test_single.py |
 | Teddyy1101 | workflow | 1c5e253 | tests/test_workflow.py |
-| Nguyen Duc Trung - 2A202603423 | ledger | 3516f10 | tests/test_ledger_trung.py |
+| Nguyen Duc Trung - 2A202603423 | ledger | 3c2f0bb | tests/test_ledger_trung.py |
 
 ## Cá nhân
 

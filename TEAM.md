@@ -2,7 +2,7 @@
 
 ## Thông tin nhóm
 
-- Tên nhóm:
+- Tên nhóm: potato
 - Lớp: L3A
 - Repo nhóm: `K5-L3A-DAY08-TenNhom-FromWorkflowsToAgents` (xem [SUBMISSION.md](SUBMISSION.md))
 - URL repo, nhánh nộp, commit chốt:
@@ -11,10 +11,10 @@
 
 | STT | Họ tên | MSSV | Email | GitHub | Vai trò |
 | --: | ------ | ---- | ----- | ------ | ------- |
-|   1 | Nguyễn Anh Tú | 2A202603434 | minhhong2061@gmail.com | AnhTu-01 | Orchestrator + handoff |
-|   2 | Trần Nguyên Đình | MSSV02 | trannguyendinh.yhd@gmail.com | MrOwl715 | single agent |
-|   3 | Nguyễn Huy Thu | MSSV03 | nguyenhuythu111@gmail.com | Teddyy1101 | workflow |
-|   4 | Nguyễn Đức Trung | 2A202603423 | trungducnguyen2k@gmail.com | NguyenDucTrung999 | ledger |
+|   1 | Nguyễn Anh Tú | 2A202603434 | minhhong2061@gmail.com | AnhTu-01 | orchestrator + handoff |
+|   2 | Đinh Trần Nguyên | 2A202603517 | nguyentrandinh.tn@gmail.com | nguyentrandinh-hub | single agent |
+|   3 | Nguyễn Huy Thứ | 2A202603356 | nguyenhuythu111@gmail.com | Teddyy1101 | workflow + integration |
+|   4 | Nguyễn Đức Trung | 2A202603423 | trungducnguyen2k@gmail.com | NguyenDucTrung999 | ledger + evaluation |
 
 Gợi ý chia vai:
 
@@ -27,10 +27,10 @@ Gợi ý chia vai:
 
 | Người | Vai | Commit | Test đã thêm hoặc sửa |
 | --- | --- | --- | --- |
-| Nguyễn Anh Tú | Orchestrator + handoff | 8fb4a71 | tests/test_orchestrator_handoff_anhtu.py |
-| MrOwl715 | single agent | a5351c9 | tests/test_single.py |
-| Teddyy1101 | workflow | 1c5e253 | tests/test_workflow.py |
-| Nguyen Duc Trung - 2A202603423 | ledger | 3c2f0bb | tests/test_ledger_trung.py |
+| Nguyễn Anh Tú - 2A202603434 | orchestrator + handoff | 8fb4a71 | tests/test_orchestrator_handoff_anhtu.py |
+| Đinh Trần Nguyên - 2A202603517 | single agent | a5351c9 | tests/test_single.py |
+| Nguyễn Huy Thứ - 2A202603356 | workflow + integration | 1c5e253 | tests/test_workflow.py |
+| Nguyen Duc Trung - 2A202603423 | ledger + evaluation | 52c67ea | tests/test_ledger_trung.py |
 
 ## Cá nhân
 
